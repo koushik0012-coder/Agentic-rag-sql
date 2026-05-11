@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+langchain
+langgraph
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence-transformers
+python-multipart
+openpyxl
+
